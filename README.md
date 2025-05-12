@@ -4,7 +4,7 @@
 
 A Análise de Sentimentos é uma técnica de processamento de linguagem natural (PLN) que visa identificar e categorizar as emoções expressas em textos. Em redes sociais, essa análise é crucial para entender as opiniões, sentimentos e comportamentos dos usuários em relação a marcas, produtos, eventos e temas diversos.
 
-## Objetivos
+## Objectivos
 
 1. **Identificar Sentimentos**: Classificar postagens e comentários em categorias de sentimentos, como positivo, negativo e neutro.
 2. **Monitorar Tendências**: Acompanhar como os sentimentos evoluem ao longo do tempo e em resposta a eventos específicos.
